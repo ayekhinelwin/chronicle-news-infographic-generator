@@ -1,0 +1,56 @@
+{
+  "edition_date": "24 NOVEMBER 2026",
+  "title": "WORLD NEWS BRIEF",
+  "subtitle": "Global developments in humanitarian aid, public health, sport and spaceflight",
+  "footer_note": "24 NOV: UN Yemen briefing, Ituri evacuation, AFCON ruling and Shenzhou-24 crew announcement.",
+  "stories": [
+    {
+      "id": "yemen-displacement",
+      "region": "MIDDLE EAST",
+      "topic": "HUMANITARIAN",
+      "accent": "#D4A853",
+      "icon": "shelter",
+      "headline": "UN reports 364,000+ displaced in Yemen",
+      "stat_value": "364,000+",
+      "stat_label": "people displaced since early August",
+      "summary": "The UN said fighting and insecurity drove displacement. In Taiz, insecurity kept about 350,000 children from a measles and rubella vaccination campaign.",
+      "sources": "UN briefing via Arab News"
+    },
+    {
+      "id": "drc-ebola-ituri",
+      "region": "AFRICA",
+      "topic": "PUBLIC HEALTH",
+      "accent": "#5EC2B7",
+      "icon": "health",
+      "headline": "Ebola Responders Evacuated in Ituri",
+      "stat_value": "3 DAYS",
+      "stat_label": "sheltering from fighting",
+      "summary": "Ebola responders evacuated from Akwe reached Bunia. Separately, nearly 6 in 10 women and girls surveyed by UNICEF reported new or worsening abuse.",
+      "sources": "MONUSCO / AP / UNICEF"
+    },
+    {
+      "id": "cas-senegal-afcon",
+      "region": "SPORT & LAW",
+      "topic": "ARBITRATION",
+      "accent": "#6BA6E8",
+      "icon": "trophy",
+      "headline": "CAS Restores Senegal's AFCON 2025 Title",
+      "stat_value": "1-0 AET",
+      "stat_label": "Senegal's win over Morocco",
+      "summary": "CAS overturned the CAF Appeal Board's 3-0 forfeit ruling. It held that the referee had authority to restart the final after Senegal's walk-off.",
+      "sources": "CAS / CAF"
+    },
+    {
+      "id": "china-pakistan-space",
+      "region": "ASIA · ORBIT",
+      "topic": "SPACEFLIGHT",
+      "accent": "#E07A5F",
+      "icon": "orbit",
+      "headline": "China names Pakistani astronaut to crew",
+      "stat_value": "FIRST",
+      "stat_label": "foreign astronaut named to visit Tiangong",
+      "summary": "China named Pakistani payload specialist Muhammad Zeeshan Ali to Shenzhou-24 with commander Tang Hongbo and flight engineer Wu Yi.",
+      "sources": "CMSA / Xinhua"
+    }
+  ]
+}

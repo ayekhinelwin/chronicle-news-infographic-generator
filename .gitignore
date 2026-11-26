@@ -1,0 +1,53 @@
+# Local competition materials and generated output
+/competition-kit.tar.gz
+/news-image-*-kit/
+/competition-kit/
+/output/
+/out/
+/tmp/
+/temp/
+*.tmp
+__pycache__/
+.venv/
+.pytest_cache/
+
+# Local credentials and client state
+.env
+.env.*
+!.env.example
+/.aws/
+/.codex/
+/.agents/
+/.gemini/
+/.makefun/
+/.streamlit/
+/.vscode/
+/.idea/
+.mcp.json
+*.local.json
+*.local.toml
+wallet*.json
+keypair*.json
+credentials*.json
+secrets*.json
+id.json
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Private transcripts and bundles
+/transcripts/
+/transcript-archives/
+/sessions/
+**/transcript*.tar
+**/transcript*.tar.gz
+**/transcript*.tgz
+**/transcript*.zip
+**/transcript*.jsonl
+rollout-*.jsonl
+makefun-run.json
+*.bundle
+
+# Keep the sample image displayed in the README.
+!/entry.png
